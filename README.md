@@ -10,7 +10,7 @@ I'm a passionate Junior software developer with experience in HTML, CSS, JavaScr
 - 👯 I’m looking to collaborate on code projets that help solve a problem.
 - 🌍 Languages: HTML, CSS, JavaScript, React, Node.js, Express.js | English, Sepedi  and Zulu
 - 📫 How to reach me: mrswartz4@icloud.com
-- ⚡ Fun fact: I'm a chill goofy guy,loves to laugh and I spend most of of my time on my screen looking at code and managing social media profiles.
+- ⚡ Fun fact: I'm a chill goofy guy, loves to laugh and I spend most of of my time on my screen looking at code and managing social media profiles.
 
 ## My Skills 🧠
 
