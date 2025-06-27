@@ -5,8 +5,9 @@
 
 I'm a passionate Junior software developer with experience in HTML, CSS, JavaScript, React, Node.js, Express.js. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Front end development & I will be learning React for the first time.
+- 🌱 Currently learning: Front end development @ ALX Africa.
 - 🔭 Working on: I am currently creating a chatbot and learning how to create backend and use APi.
+- 👯 I’m looking to collaborate on code projets that help solve a problem.
 - 🌍 Languages: HTML, CSS, JavaScript, React, Node.js, Express.js | English, Sepedi  and Zulu
 - 📫 How to reach me: mrswartz4@icloud.com
 - ⚡ Fun fact: I'm a chill goofy guy loves to laugh, spent most of of my time on my screen looking at code and managing social media profiles.
@@ -22,9 +23,7 @@ I'm a passionate Junior software developer with experience in HTML, CSS, JavaScr
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=Jasmine&logoColor=white)
 
 
-## Featured Projects 💻
 
-### BnB project | url: https://bblack-jewent.github.io/BnB/
 
 
 <!--
