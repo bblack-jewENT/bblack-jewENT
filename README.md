@@ -1,5 +1,4 @@
 # Hi there, I'm Moses Rametsi! 👋
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
 
 ## About Me 🚀
